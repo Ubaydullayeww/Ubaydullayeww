@@ -3,7 +3,3 @@
 - I am a Flutter learner
 - ins: Ubaydullayeww 
 - tg: Ubaydullayeww 
-- Hobby:
-- UFC & BodyBuilder Specialist
-- CapCut & VN video Editor
-- Create insta blogs and reels
