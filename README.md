@@ -3,3 +3,4 @@
 - I am a Flutter learner
 - ins: Ubaydullayeww 
 - tg: Ubaydullayeww 
+- study: PDP Academy 
