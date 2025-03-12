@@ -17,6 +17,6 @@ Modular va kengaytiriluvchi arxitektura
 Dizaynga asoslangan aniq UI/UX implementatsiya
 Jamoaviy hamkorlik va Git-based versiya nazorati
 -📫 Murojaat uchun:
--Email: Ubaydulayeww72@gmail.com
+-Email: Ubaydullayeww72@gmail.com
 -LinkedIn: Ubaydullayeww
 -Telegram: t.me/Ubaydullayeww
